@@ -1,7 +1,7 @@
 var mit = {
     city: 'Cambridge',
-    colors: ['pink', 'red'],
-    mascot: "robot",
+    colors: ['Silver Gray', 'Red'],
+    mascot: "beaver",
     founded: 1861,
-    motto: 'Carpe diem',
+    motto: 'Mens Et Manus',
 };
